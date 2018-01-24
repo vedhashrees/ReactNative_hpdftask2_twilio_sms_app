@@ -11,7 +11,11 @@ The project is implemented with React Native for the UI. On Clicking the Submit 
 
 # Steps to follow in running the app.
 
+After cloning the repo , 
+
 in a cmd prompt 
+   `npm install`
+   
    `react-native start --port 8082 --reset-cache`
 
 in another cmd prompt 
